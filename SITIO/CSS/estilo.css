@@ -7,7 +7,7 @@
 header.hero{
 background: #123A52;
 color: #fff;
-height: 600px;
+height: 1000px;
 padding: 100px;
 box-sizing: border-box;
 text-align: center;
@@ -46,7 +46,7 @@ display: block;
 
 }
 
-header.hero:hover{
+header.hero a:hover{
 background: #fff;
 color: #123A52;
 
